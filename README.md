@@ -11,6 +11,4 @@ Link: _https://github.com/anujvyas/Machine-Learning-Projects/tree/master/First%2
 
 • Please do ⭐ the repository, if it helped you in anyway.
 
-• A glimpse of the web app:
 
- ![GIF](readme_resources/ipl-first-innings-score-web-app.gif)
